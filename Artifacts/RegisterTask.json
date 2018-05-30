@@ -3,7 +3,7 @@
     "containerDefinitions": [
         {
             "name": "helloworldgvcontainer",
-            "image": "717904358179.dkr.ecr.us-east-2.amazonaws.com/helloworldgvrepo:latest",
+            "image": "717904358179.dkr.ecr.us-east-2.amazonaws.com/helloworldgvrepo1:latest",
             "cpu": 10,
             "memory": 1024,
             "portMappings": [
